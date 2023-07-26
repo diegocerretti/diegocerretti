@@ -9,7 +9,7 @@ I'm a dedicated and inquisitive individual with a deep passion for the potential
 * 🌍  I'm based in Milan
 * 🖥️  See my portfolio at [MyPortfolio](http://aa)
 * ✉️  You can contact me at [diegocerretti02@gmail.com](mailto:diegocerretti02@gmail.com)
-* 🚀  I'm currently working on [GAiA App](http://.)
+* 🚀  I'm currently working on [GAiA App](http://aa)
 
 ### Skills
 
