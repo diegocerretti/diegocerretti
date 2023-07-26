@@ -7,7 +7,7 @@ AI Student
 I'm a dedicated and inquisitive individual with a deep passion for artificial intelligence. As a student in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University, I've been fortunate to immerse myself in the fascinating intersection of mathematics, computer science, and cutting-edge technologies.
 
 * 🌍  I'm based in Milan
-* 🖥️  See my portfolio at [MyPortfolio](https://diegocerretti.github.io)
+* 🖥️  See my portfolio [here](https://diegocerretti.github.io)
 * ✉️  You can contact me at [diegocerretti02@gmail.com](mailto:diegocerretti02@gmail.com)
 * 🚀  I'm currently working on GAiA App
 
