@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Student
 ----------
 
-I'm a dedicated and inquisitive individual with a deep passion for the potential of artificial intelligence to reshape our world. As a student of BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University, I've been fortunate to immerse myself in the fascinating intersection of mathematics, computer science, and cutting-edge technologies.
+I'm a dedicated and inquisitive individual with a deep passion for artificial intelligence. As a student of BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University, I've been fortunate to immerse myself in the fascinating intersection of mathematics, computer science, and cutting-edge technologies.
 
 * 🌍  I'm based in Milan
 * 🖥️  See my portfolio at [MyPortfolio](http://aa)
