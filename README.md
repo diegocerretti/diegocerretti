@@ -9,7 +9,7 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 * 🌍  I'm based in Milan
 * 🖥️  See my portfolio at [MyPortfolio](https://diegocerretti.github.io)
 * ✉️  You can contact me at [diegocerretti02@gmail.com](mailto:diegocerretti02@gmail.com)
-* 🚀  I'm currently working on [GAiA App]
+* 🚀  I'm currently working on GAiA App
 
 ### Skills
 
