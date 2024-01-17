@@ -9,7 +9,7 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 * 🌍  I'm based in Milan
 * 🖥️  See my portfolio [here](https://diegocerretti.github.io)
 * ✉️  You can contact me at [diegocerretti02@gmail.com](mailto:diegocerretti02@gmail.com)
-* 🚀  I'm currently studying at Université Dauphine - PSL, Paris
+* 🚀  I'm currently studying at Bocconi University
 
 ### Skills
 
