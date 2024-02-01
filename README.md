@@ -21,6 +21,11 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Experience
+* 🧠 **Deep Learning Engineer at **AIWAY** (January 2024 - Present)
+  - Developing customized Computer Vision systems to enhance business processes and operational efficiency.
+* 📈 **Data Scientist** at **SAS** (September 2018 - June 2019)
+  - Played a key role as a data scientist, applying SAS software to provide trend analysis services for a local company.
 
 ### Socials
 
