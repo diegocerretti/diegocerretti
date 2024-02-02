@@ -1,7 +1,7 @@
 My name is Diego Cerretti
 ======================================================================================================================================
 
-AI Student
+AI Student, Deep Learning Engineer Intern
 ----------
 
 I'm a dedicated and inquisitive individual with a deep passion for artificial intelligence. As a student in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University, I've been fortunate to immerse myself in the fascinating intersection of mathematics, computer science, and cutting-edge technologies.
@@ -24,6 +24,7 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.sas.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Socials
