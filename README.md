@@ -25,6 +25,7 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.sas.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" width="36" height="36" alt="SAS" /></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/flask.svg" width="36" height="36" alt="SAS" /></a>
 </p>
 
 ### Socials
