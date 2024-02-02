@@ -24,7 +24,7 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sas.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/73/96/b8/7396b8543078228985df506d122df2e7.png" width="36" height="36" alt="SAS" /></a>
+<a href="https://www.sas.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" width="36" height="36" alt="SAS" /></a>
 </p>
 
 ### Socials
