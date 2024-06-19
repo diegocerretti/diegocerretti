@@ -13,7 +13,7 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 
 ### Experience
 * 🧠 **Deep Learning Engineer** at **AIWAY** (January 2024 - April 2024)
-  - Developing customized Computer Vision systems to enhance business processes and operational efficiency.
+  - Developed customized Computer Vision systems to enhance business processes and operational efficiency.
 * 📈 **Data Scientist** at **SAS** (September 2018 - June 2019)
   - Played a key role as a data scientist, applying SAS software to provide trend analysis services for a local company.
 
