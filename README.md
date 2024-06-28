@@ -7,12 +7,14 @@ AI Student, Deep Learning Engineer Intern
 I'm a dedicated and inquisitive individual with a deep passion for artificial intelligence. As a student in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University, I've been fortunate to immerse myself in the fascinating intersection of mathematics, computer science, and cutting-edge technologies.
 
 * 🌍  I'm based in Beijing, China
-* 🖥️  See my portfolio [here](https://diegocerretti.github.io)
-* ✉️  You can contact me at [diegocerretti02@gmail.com](mailto:diegocerretti02@gmail.com)
 * 🎓  BSc in Mathematics and Computing Sciences for Artificial Intelligence at Bocconi University
 * 💻 MSc candidate in Advanced Computing at Tsinghua University
+* 🖥️  See my portfolio [here](https://diegocerretti.github.io)
+* ✉️  You can contact me at [diegocerretti02@gmail.com](mailto:diegocerretti02@gmail.com)
 
-### Experience
+💼 Experiences
+----------
+
 * 🧠 **Deep Learning Engineer** at **AIWAY** (January 2024 - April 2024)
   - Developed customized Computer Vision systems to enhance business processes and operational efficiency.
 * 📈 **Data Scientist** at **SAS** (September 2018 - June 2019)
