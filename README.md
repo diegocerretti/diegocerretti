@@ -1,7 +1,7 @@
 My name is Diego Cerretti
 ======================================================================================================================================
 
-👨‍🎓 AI Student, Deep Learning Engineer Intern
+👨‍🎓 Advanced Computing Student
 ----------
 
 I'm a dedicated and inquisitive individual with a deep passion for artificial intelligence. As a student in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University, I've been fortunate to immerse myself in the fascinating intersection of mathematics, computer science, and cutting-edge technologies.
