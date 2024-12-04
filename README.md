@@ -8,7 +8,7 @@ I'm a dedicated and inquisitive individual with a deep passion for artificial in
 
 * 🌍  I'm based in Beijing, China
 * 🎓  BSc in Mathematics and Computing Sciences for Artificial Intelligence at Bocconi University
-* 📖  MSc candidate in Advanced Computing at Tsinghua University
+* 📖  MSc in Advanced Computing at Tsinghua University
 * 🖥️  See my portfolio [here](https://diegocerretti.github.io)
 * ✉️  You can contact me at [diegocerretti02@gmail.com](mailto:diegocerretti02@gmail.com)
 
