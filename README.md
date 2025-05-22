@@ -19,7 +19,7 @@ Experiences
   - Developed customized Computer Vision systems to enhance business processes and operational efficiency.
 * 📈 **Data Scientist** at **SAS** (September 2018 - June 2019)
   - Played a key role as a data scientist, applying SAS software to provide trend analysis services for a local company.
-* 🖥️ **Student Reseacher**at **Complex Network Intelligence Center** (February 2025 - June 2026)
+* 🖥️ **Student Reseacher** at **Complex Network Intelligence Center**, Tsinghua University (February 2025 - June 2026)
   - I’m exploring brain-inspired sparse-training methods for neural networks.
 
 
